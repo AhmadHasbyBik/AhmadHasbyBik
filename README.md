@@ -3,24 +3,16 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Abeeek;Software+Engineer;Informatics+Student;العلم+بلا+عمل+كالشجر+بلا+ثمر;Knowledge+without+charity+is;like+a+tree+without+fruit;"></a>
 </p>
 <br>
-	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
+<br>
 
 - :school: I am a Student at [Faculty of Computers](https://fasilkom.upnjatim.ac.id/) at [UPN Veteran Jawa Timur](https://www.upnjatim.ac.id/).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Software Engineering, DevOps, Machine Learning`.
 <br>
-
----
-
-<p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-</p>
-
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
