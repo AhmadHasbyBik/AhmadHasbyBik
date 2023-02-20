@@ -47,7 +47,6 @@
 
  
 </details>
-</br>
 	
 ## 🐍 A Snake Eating my Contributions Graph
 	
