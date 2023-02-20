@@ -47,7 +47,8 @@
 
  
 </details>
-	
+<br>	
+
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
