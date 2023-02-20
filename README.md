@@ -43,12 +43,11 @@
 
 ----
 	
-[![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AhmadHasbyBik&theme=github	)](https://github.com/7oSkaaa/github-readme-activity-graph)
+[![AhmadHasbyBik's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AhmadHasbyBik&theme=github	)](https://github.com/7oSkaaa/github-readme-activity-graph)
 
  
 </details>
-
-</br></br>
+</br>
 	
 ## 🐍 A Snake Eating my Contributions Graph
 	
