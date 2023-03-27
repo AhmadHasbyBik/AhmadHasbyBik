@@ -12,7 +12,7 @@
 
 - :school: I am a Student at [Faculty of Computers](https://fasilkom.upnjatim.ac.id/) at [UPN Veteran Jawa Timur](https://www.upnjatim.ac.id/).
 - :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently learning `Software Engineering, DevOps, Machine Learning`.
+- :student: I’m currently learning `Software Engineering, DevOps, Cloud Engineering`.
 <br>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
