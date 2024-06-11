@@ -9,7 +9,6 @@
 
 <br>
 
-- :school: I am a Student at [Faculty of Computers](https://fasilkom.upnjatim.ac.id/) at [UPN Veteran Jawa Timur](https://www.upnjatim.ac.id/).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Fullstack Software Engineering and DevOps`.
 <br>
