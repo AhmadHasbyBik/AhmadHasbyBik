@@ -19,7 +19,7 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadHasbyBik&theme=tokyonight_duo" alt="AhmadHasbyBik" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadHasbyBik&theme=tokyonight_duo" alt="AhmadHasbyBik"/></p>
 
 </details>
   
